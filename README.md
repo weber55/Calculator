@@ -1,4 +1,4 @@
-# Project Submission
+# Calculator
 
 Team Member A: Samantha Carlile (418)
 Team Member B: Brian Weber ()
